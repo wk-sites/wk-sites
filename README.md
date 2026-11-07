@@ -69,7 +69,7 @@ Portal zu Gutscheinen, Angeboten, Aktionen und Spartipps.
 
 ## Verzeichnisse, Medien und Wissen
 
-### [Vippale.co](https://vippale.co/)
+### [Vippale.com](https://vippale.com/)
 Webprojekt der Vippale-Domainfamilie.
 
 ### [Vippale.de](https://vippale.de/)
@@ -78,7 +78,7 @@ Webprojekt der Vippale-Domainfamilie.
 ### [Vippale.eu](https://vippale.eu/)
 Webprojekt der Vippale-Domainfamilie.
 
-### [Publend](https://publend.de/)
+### [Publendo](https://publendo.de/)
 Digitales Webprojekt.
 
 ### [Querwissen](https://querwissen.eu/)
